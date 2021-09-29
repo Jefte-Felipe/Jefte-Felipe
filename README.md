@@ -26,4 +26,4 @@
  ![Snake animation](https://github.com/Jefte-Felipe/Jefte-Felipe-output/blob/main/github-contribution-grid-snake.svg)
 </div> 
 
- 
+
