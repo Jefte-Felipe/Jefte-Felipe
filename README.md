@@ -8,6 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jefte-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Jefte-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="right" alt="Img-pic" height="150" style="border-radius:50px;" src="https://www.journaldufreenaute.fr/wp-content/uploads/2022/02/GIF-1.gif">
 </div>
   
   ##
