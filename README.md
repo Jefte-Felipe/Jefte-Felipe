@@ -1,21 +1,22 @@
-## Olá! Eu sou o Jefte Felipe
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefte-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefte-Felipe&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# 👋 Hi there
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jefte-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Jefte-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="right" alt="Img-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
-</div>
-  
-  ##
- 
-<div>
-  <a href = "mailto: jefte.felipe@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jefte-felipecwb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a>
+I am Jefte Felipe, a passionate Android developer and technology enthusiast. Currently, I work as a Mid-level Android Developer at LUBY. </br>
+With over 5 years of experience in the field, I have had the opportunity to work on various exciting projects and explore different technologies.
 
- ![Snake animation](https://github.com/Jefte-Felipe/Jefte-Felipe-output/blob/main/github-contribution-grid-snake.svg)
-</div> 
+# 🚀 Expertise
+Passionate about crafting interactive and intuitive user experiences, I am a specialist in Android mobile development, blending design patterns and best practices. With nearly 4 years devoted to refining my skills in Android technologies, I have played a decisive role in the teams I've been a part of, developing system guidelines and upholding the highest standards of mobile performance.
+
+# 💻 Tech Stack
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+ # 🌐 Social:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jefte-felipecwb/])
+
