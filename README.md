@@ -4,9 +4,6 @@ I am a software developer with over 3 years of experience in Android application
 I have actively contributed to the creation of various apps released on the Play Store, which are used by thousands of users.</br>
 I have a strong passion for mobile development.
 
-# 🚀 Expertise
-Passionate about crafting interactive and intuitive user experiences, I am a specialist in Android mobile development, blending design patterns and best practices. With nearly 3 years devoted to refining my skills in Android technologies, I have played a decisive role in the teams I've been a part of, developing system guidelines and upholding the highest standards of mobile performance.
-
 # ⚡Technologies
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
