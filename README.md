@@ -1,7 +1,10 @@
-## Oiii eu sou o Jefte Felipe, desenvolvedor mobile apaixonado por tecnologia!
 
-Se você curte **Kotlin, Java, Swift ou KMP**, tá no lugar certo! 🚀  
-Aqui compartilho projetos, aprendizados e tudo que envolve o universo mobile!
+---
+
+## Hey there! I'm Jefte Felipe, a mobile developer passionate about technology! 👋
+
+If you're into **Kotlin, Java, Swift, or KMP**, you're in the right place! 🚀  
+Here I share projects, lessons learned, and everything related to the mobile universe!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jefte-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
@@ -21,11 +24,9 @@ Aqui compartilho projetos, aprendizados e tudo que envolve o universo mobile!
 
 ---
 
-🔭 Atualmente estou trabalhando com desenvolvimento mobile usando **Kotlin**  
-🌱 Estudando constantemente novas arquiteturas e boas práticas  
-💬 Me pergunte sobre **Kotlin, Swift, Java** e **apps escaláveis**  
-⚡ Curiosidade: adoro transformar ideias em produtos reais e funcionais!
+🔭 Currently working with mobile development using **Kotlin**  
+🌱 Constantly learning new architectures and best practices  
+💬 Ask me about **Kotlin, Swift, Java**, and **scalable apps**  
+⚡ Fun fact: I love turning ideas into real, functional products!
 
-
-
-
+---
